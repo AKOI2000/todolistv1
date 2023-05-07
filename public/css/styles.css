@@ -1,6 +1,6 @@
 html {
   background-color: #A3423C;
-  background-image: -webkit-linear-gradient(65deg, #DE834D 50%, #F0D290 50%);
+  background-image: -webkit-linear-gradient(65deg, #DE834D 70%, #F0D290 30%);
   min-height: 750px;
   font-family: 'helvetica neue';
 }
@@ -77,6 +77,7 @@ input[type="text"] {
   font-size: 20px;
   font-weight: 200;
   width: 313px;
+  color: #F0D290;
 }
 
 input[type="text"]:focus {
